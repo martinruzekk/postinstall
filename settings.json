@@ -1,0 +1,28 @@
+{
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "editor.formatOnSave": true,
+    "sync.gist": "a83cff23e970eabbb879f07a6ecdfa14",
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    // PHP
+    "php.validate.executablePath": "/usr/bin/php",
+    "php.suggest.basic": false,
+    // Theme
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "files.defaultLanguage": "${activeEditorLanguage}",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.automationShell.linux": "/usr/bin/zsh"
+}
