@@ -12,3 +12,5 @@ What to do after fresh installation of Kubntu.
   * git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
 * Download [Strechy](https://github.com/hovancik/stretchly/releases)
 * Configure looks ([inspiration](https://youtu.be/exQh0_JKBJQ))
+* Enable auto-numlock
+* Enable touchpad
