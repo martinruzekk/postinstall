@@ -6,7 +6,6 @@ bracket-pair-colorizer
 code-settings-sync
 composer
 gitlens
-jupyter
 live-sass
 LiveServer
 lorem-ipsum
@@ -16,7 +15,6 @@ path-intellisense
 python
 remote-ssh
 remote-ssh-edit
-vsc-community-material-theme
 vsc-material-theme
 vsc-material-theme-icons
 vscode-docker
