@@ -20,6 +20,7 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 
 git config --global user.name "Martin Růžek"
 git config --global user.email "me@martinruzek.cz"
+git config --global init.defaultBranch main
 
 
 # Looks
